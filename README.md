@@ -62,3 +62,10 @@ Here is a table with the `endpoint` descriptions:
 | View Hub details     | /api/hubs/{id}    | GET    | a Hub            |
 | Update Hub           | /api/hubs/{id}    | PATCH  | updated Hub      |
 | Remove a Hub         | /api/hubs/{id}    | DELETE | deleted Hub      |
+
+
+## Commands
+
+- `npm init -y` -> generate a `package.json` file
+- `npm i express`
+- `npm i nodemon -D` -> restarts server on change
